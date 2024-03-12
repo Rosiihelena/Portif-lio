@@ -14,6 +14,8 @@
 
 <br />
 
+<div align="center">
+
 # Sobre mim
 
 
@@ -23,13 +25,15 @@
 
 </div>
 
+<div align="center">
+
 <br />
 
   Me chamo Rosimeire, tenho 29 anos e sou nascida e criada na cidade de São José dos Campos - SP.
 
   Atualmente, estou no 3° Semestre do curso de Logística. Esta graduação possibilitou-me agregar conhecimentos e expandir minha compreensão ao integrar processos e recursos, transformando desafios em oportunidade de crescimento.
   Os desafios que venho enfrentando a cada semestre, são baseados em problemas reais de empresas, isso me aproximou muito da realidade da profissão, o que me permite obter ainda mais conhecimento.
-
+  
 <br />
 
 <br />
@@ -37,9 +41,7 @@
 # Contatos
 <div align="center">
 
- [<img src="https://github.com/William2819/Portfolio/assets/93256317/e7604af5-5287-4d04-baa9-ea0d69fcf83a" width="80" height="80">](https://www.linkedin.com/in/william-silva-05213a3a/) 
- [<img src="https://github.com/William2819/Portfolio/assets/93256317/fe5e6046-2a25-4081-b05a-dc5734ecee9f" width="80" height="80">](https://github.com/William2819)
-</div>
+
 
 <br />
 
