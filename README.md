@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  <img src="https://github.com/William2819/Portfolio/assets/93256317/d06247f5-63d8-4ffe-800e-a1a84bb4a1ba" width="200" height="200">
+  <img src="https://github.com/Rosiihelena/Portif-lio/assets/126811867/52cc42da-ee22-4ef5-9022-fa3ad33dbd6a" width="200" height="200">
 
 </div>
 
