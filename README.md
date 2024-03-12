@@ -25,12 +25,10 @@
 
 <br />
 
-  Me chamo William, tenho 25 anos e sou nascido e criado na cidade de São José dos Campos - SP. Sou formado em Técnico em Eletrônica pela instituição de ensino CEPHAS (Centro de Educação Profissional Hélio Augusto de Souza)
-onde tive contato pela primeira vez com programação. Comecei programando com linguagem de baixo nível, mais especificamente a linguagem [Assembly](https://coodesh.com/blog/dicionario/o-que-e-assembly-language/), e posteriormente
-uma linguagem de alto nível chamado [Arduino](https://www.arduino.cc/en/Guide/Introduction).
+  Me chamo Rosimeire, tenho 29 anos e sou nascida e criada na cidade de São José dos Campos - SP.
 
-  Atualmente, estou no 5° Semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal. Esta graduação possibilitou-me agregar conhecimentos em diversos tipos de linguagem de programação
-e também ofereceu diversos desafios propostos por empresas reais o qual me aproximou muito da realidade da profissão.
+  Atualmente, estou no 3° Semestre do curso de Logística. Esta graduação possibilitou-me agregar conhecimentos e expandir minha compreensão ao integrar processos e recursos, transformando desafios em oportunidade de crescimento.
+  Os desafios que venho enfrentando a cada semestre, são baseados em problemas reais de empresas, isso me aproximou muito da realidade da profissão, o que me permite obter ainda mais conhecimento.
 
 <br />
 
